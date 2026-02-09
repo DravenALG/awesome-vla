@@ -13,84 +13,69 @@
 
 </div>
 
----
-
 ## Overview
 - 🎯 [Aim](#aim)
 - 📚 [Definition](#definition)
 - 📖 [Survey](#survey)
 - 🧠 [General VLA](#general-vla)
-- 🌐 [VLA in 3D Spatial Modelling](#vla-in-3d-spatial-modelling)
-- 🔥 [VLA in Post Training (e.g., RL)](#vla-in-post-training-eg-rl)
-- 🧩 [VLA in Intermediate Modelling (e.g., World Modelling, Reasoning)](#vla-in-intermediate-modelling-eg-world-modelling-reasoning)
-- 🧪 [VLA in Latent Actions](#vla-in-latent-actions)
-- 🪶 [VLA in Lightweights](#vla-in-lightweights)
-- 🧭 [VLA in Specific Domains (Humanoid, Tactile)](#vla-in-specific-domains-humanoid-tactile)
-- 🧷 [VLA in Other Small Topics](#vla-in-other-small-topics)
+- 🌐 [VLA with 3D Spatial Modelling](#vla-with-3d-spatial-modelling)
+- 🔥 [VLA with Post-Training (e.g., RL)](#vla-with-post-training-eg-rl)
+- 🧩 [VLA with Intermediate Modelling (e.g., World Modelling, Reasoning)](#vla-with-intermediate-modelling-eg-world-modelling-reasoning)
+- 🧪 [VLA with Latent Actions](#vla-with-latent-actions)
+- 🪶 [Efficient VLA](#efficient-vla)
+- 🧭 [Domain-Specific VLA (Humanoid, Tactile)](#domain-specific-vla-humanoid-tactile)
+- 🧷 [Other Topics in VLA](#other-topics-in-vla)
 - 🦾 [Traditional Policies](#traditional-policies)
 - 📊 [Benchmarks](#benchmarks)
 
----
-
 ## Aim
-This list is a personal map of the VLA landscape for quick lookup during future research, and a public reference for anyone exploring the area. It is designed to be concise, practical, and easy to update as the field evolves, covering both foundational ideas and emerging directions.
-
----
+This is a curated list of VLA research that systematically organizes various topics within the field. It will be continuously updated and refined, with the goal of clarifying the research context for scholars in the VLA domain. If you have any new papers worth adding, please feel free to push and join us in maintaining a high-quality VLA list.
 
 ## Definition
-Vision-Language-Action (VLA) models use the rich language understanding and visual perception knowledge of VLMs to extract task-relevant information, and then support or directly drive robotic policies. In short, a VLA model bridges perception and instruction to action, enabling robots to interpret multimodal context and produce effective control.
+In short, VLA models are a type of robotics policy that inherts the pretrained VLMs’ rich language grounding and visual understanding abilities to offter a scalable route toward general-purpose, language-conditioned robot policies. We can trace the origin and formal definition of the VLA to the work TR-2.
 
----
+- [⭐️] **RT-2**, RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [![arXiv](https://img.shields.io/badge/arXiv-2307.15818-b31b1b.svg)](https://arxiv.org/abs/2307.15818) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics-transformer2.github.io)
 
 ## Survey
-<!-- TODO: fill in -->
+- A Survey on Vision-Language-Action Models for Embodied AI. [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b.svg)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/yueen-ma/Awesome-VLA)
 
----
+- Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges. [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b.svg)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
 
 ## General VLA
 <!-- TODO: fill in -->
 
----
 
-## VLA in 3D Spatial Modelling
+## VLA with 3D Spatial Modelling
 <!-- TODO: fill in -->
 
----
 
-## VLA in Post Training (e.g., RL)
+## VLA with Post-Training (e.g., RL)
 <!-- TODO: fill in -->
 
----
 
-## VLA in Intermediate Modelling (e.g., World Modelling, Reasoning)
+## VLA with Intermediate Modelling (e.g., World Modelling, Reasoning)
 <!-- TODO: fill in -->
 
----
 
-## VLA in Latent Actions
+## VLA with Latent Actions
 <!-- TODO: fill in -->
 
----
 
-## VLA in Lightweights
+## Efficient VLA
 <!-- TODO: fill in -->
 
----
 
-## VLA in Specific Domains (Humanoid, Tactile)
+## Domain-Specific VLA (Humanoid, Tactile)
 <!-- TODO: fill in -->
 
----
 
-## VLA in Other Small Topics
+## Other Topics in VLA
 <!-- TODO: fill in -->
 
----
 
 ## Traditional Policies
 <!-- TODO: fill in -->
 
----
 
 ## Benchmarks
 <!-- TODO: fill in -->
