@@ -87,8 +87,6 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 
 - [⭐️] **RDT-1B**, RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2410.07864-b31b1b.svg)](https://arxiv.org/abs/2410.07864) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rdt-robotics.github.io/rdt-robotics/)
 
-- **HPT**, Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers. [![arXiv](https://img.shields.io/badge/arXiv-2409.20537-b31b1b.svg)](https://arxiv.org/abs/2409.20537) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://liruiw.github.io/hpt/)
-
 - **ReKep**, ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2409.01652-b31b1b.svg)](https://arxiv.org/abs/2409.01652) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rekep-robot.github.io)
 
 - **HPT**, Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers. [![arXiv](https://img.shields.io/badge/arXiv-2409.20537-b31b1b.svg)](https://arxiv.org/abs/2409.20537) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://liruiw.github.io/hpt/)
