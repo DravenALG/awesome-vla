@@ -27,7 +27,8 @@
 - 🧷 [Other Topics in VLA](#other-topics-in-vla)
 - 🦾 [Traditional Policies](#traditional-policies)
 - 💾 [Datasets](#datasets)
-- 📊 [Benchmarks](#benchmarks)
+- 📊 [Benchmark / Environment](#benchmark--environment)
+- 🏞️ [Physics Engine](#physics-engine)
 - 🖥️ [Hardware](#hardware)
 
 ## Aim
@@ -44,6 +45,8 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 - A Survey on Vision-Language-Action Models for Embodied AI. [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b.svg)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/yueen-ma/Awesome-VLA)
 
 ## General VLA
+
+- **Lingbot-VLA** A Pragmatic VLA Foundation Model. [![arXiv](https://img.shields.io/badge/arXiv-2601.18692-b31b1b.svg)](https://arxiv.org/abs/2601.18692) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-vla/)
 
 - **VLM4VLA** VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2601.03309-b31b1b.svg)](https://arxiv.org/abs/2601.03309) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cladernyjorn.github.io/VLM4VLA.github.io/)
 
@@ -75,6 +78,7 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 
 - **RoboFlamingo**, Vision-Language Foundation Models as Effective Robot Imitators. [![arXiv](https://img.shields.io/badge/arXiv-2311.01378-b31b1b.svg)](https://arxiv.org/abs/2311.01378) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://roboflamingo.github.io)
 
+- [⭐️] **RT-2**, RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [![arXiv](https://img.shields.io/badge/arXiv-2307.15818-b31b1b.svg)](https://arxiv.org/abs/2307.15818) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics-transformer2.github.io)
 
 ## VLA with 3D Spatial Modelling
 
@@ -93,7 +97,7 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 
 - **AVA-VLA**, AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention. [![arXiv](https://img.shields.io/badge/arXiv-2511.18960-b31b1b.svg)](https://arxiv.org/abs/2511.18960)
 
-- **SRPO**, SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2511.15605-b31b1b.svg)](https://arxiv.org/abs/2511.15605)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/sii-research/siiRL)
+- **SRPO**, SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2511.15605-b31b1b.svg)](https://arxiv.org/abs/2511.15605)
 
 - **World-Env**, World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training. [![arXiv](https://img.shields.io/badge/arXiv-2509.24948-b31b1b.svg)](https://arxiv.org/abs/2509.24948)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/amap-cvlab/world-env)
 
@@ -113,6 +117,8 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 
 
 ## VLA with Intermediate Modelling (e.g., World Modelling, Reasoning)
+
+- [⭐️] **Cosmos Policy**, Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning. [![arXiv](https://img.shields.io/badge/arXiv-2601.16163-b31b1b.svg)](https://arxiv.org/abs/2601.16163) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/dir/cosmos-policy/)
 
 - **MM-ACT**, MM-ACT: Learn from Multimodal Parallel Generation to Act. [![arXiv](https://img.shields.io/badge/arXiv-2512.00975-b31b1b.svg)](https://arxiv.org/abs/2512.00975) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/HHYHRHY/MM-ACT)
 
@@ -141,6 +147,8 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 ## VLA with Latent Actions
 
 - **Motus**, Motus: A Unified Latent Action World Model. [![arXiv](https://img.shields.io/badge/arXiv-2512.13030-b31b1b.svg)](https://arxiv.org/abs/2512.13030) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://motus-robotics.github.io/motus)
+
+- [⭐️] **GR00T N1**, GR00T N1: An Open Foundation Model for Generalist Humanoid Robots. [![arXiv](https://img.shields.io/badge/arXiv-2503.14734-b31b1b.svg)](https://arxiv.org/abs/2503.14734) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://developer.nvidia.com/isaac/gr00t)
 
 - [⭐️] **LAPA**, Latent Action Pretraining from Videos. [![arXiv](https://img.shields.io/badge/arXiv-2410.11758-b31b1b.svg)](https://arxiv.org/abs/2410.11758) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://latentactionpretraining.github.io)
 
@@ -228,11 +236,28 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 - [⭐️] **Open X-Embodiment**, Open X-Embodiment: Robotic Learning Datasets and RT-X Models. [![arXiv](https://img.shields.io/badge/arXiv-2310.08864-b31b1b.svg)](https://arxiv.org/abs/2310.08864) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics-transformer-x.github.io)
 
 
-## Benchmarks
+## Benchmark / Environment
 - **LIBERO-Plus**, LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-2510.13626-b31b1b.svg)](https://arxiv.org/abs/2510.13626) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sylvestf.github.io/LIBERO-plus/)
+
+- [⭐️] **RoboTwin 2.0**, RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2506.18088-b31b1b.svg)](https://arxiv.org/abs/2506.18088) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/robotwin-Platform/robotwin/)
 
 - [⭐️] **LIBERO**, LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning. [![arXiv](https://img.shields.io/badge/arXiv-2306.03310-b31b1b.svg)](https://arxiv.org/abs/2306.03310) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://libero-project.github.io/main.html)
 
+- [⭐️] **CALVIN**, CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks. [![arXiv](https://img.shields.io/badge/arXiv-2112.03227-b31b1b.svg)](https://arxiv.org/abs/2112.03227) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://calvin.cs.uni-freiburg.de)
+
+- [⭐️] **SAPIEN**, SAPIEN: A SimulAted Part-based Interactive ENvironment. [![arXiv](https://img.shields.io/badge/arXiv-1909.12271-b31b1b.svg)](https://arxiv.org/abs/1909.12271) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sapien.ucsd.edu)
+
+- [⭐️] **RLBench**, RLBench: The Robot Learning Benchmark & Learning Environment. [![arXiv](https://img.shields.io/badge/arXiv-2003.08515-b31b1b.svg)](https://arxiv.org/abs/2003.08515) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/rlbench)
+
+## Physics Engine
+
+- [⭐️] **Cosmos (neural engine)**, Cosmos World Foundation Model Platform for Physical AI  [![arXiv](https://img.shields.io/badge/arXiv-2501.03575-b31b1b.svg)](https://arxiv.org/abs/2501.03575) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/nvidia-cosmos/cosmos-predict1)
+
+- [⭐️] **PhysX**, [![Website](https://img.shields.io/badge/Website-Link-blue)](https://developer.nvidia.com/physx-sdk)
+
+- [⭐️] **MuJoCo**. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mujoco.org)
+
+- [⭐️] **PyBullet**. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pybullet.org/wordpress/)
 
 ## Hardware
 
