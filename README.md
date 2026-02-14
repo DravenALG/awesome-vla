@@ -3,7 +3,8 @@
 # 🤖 Awesome VLA
 
 **📜 A Curated List of Vision-Language-Action (VLA) Research** </br>
-*Based on [Awesome World Models](https://github.com/knightnemo/Awesome-World-Models/tree/main).*
+
+**🚀 Welcome to follow our exploratory work on VLA, [VLANeXt](https://github.com/DravenALG/VLANeXt).**
 
 <p align="center">
   <img src="awesome-vla.jpg" alt="Awesome VLA" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
@@ -71,6 +72,8 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 - [⭐️] **FAST**, FAST: Efficient Action Tokenization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2501.09747-b31b1b.svg)](https://arxiv.org/abs/2501.09747) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/research/fast)
 
 - **CogACT**, CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2411.19650-b31b1b.svg)](https://arxiv.org/abs/2411.19650) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cogact.github.io)
+
+- **RoboVLMs**, Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2412.14058-b31b1b.svg)](https://arxiv.org/abs/2412.14058) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robovlms.github.io)
 
 - [⭐️] **π0**, π0: A Vision-Language-Action Flow Model for General Robot Control. [![arXiv](https://img.shields.io/badge/arXiv-2410.24164-b31b1b.svg)](https://arxiv.org/abs/2410.24164) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/blog/pi0)
 
@@ -176,6 +179,8 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 
 ## Other Topics in VLA
 
+- **DynamicVLA**, DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2601.22153-b31b1b.svg)](https://arxiv.org/abs/2601.22153) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/hzxie/DynamicVLA)
+
 - **MemoryVLA**, MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2508.19236-b31b1b.svg)](https://arxiv.org/abs/2508.19236) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://shihao1895.github.io/MemoryVLA/)
 
 - **TraceVLA**, TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies. [![arXiv](https://img.shields.io/badge/arXiv-2412.10345-b31b1b.svg)](https://arxiv.org/abs/2412.10345) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tracevla.github.io)
@@ -263,6 +268,9 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 - **GELLO**, GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators. [![arXiv](https://img.shields.io/badge/arXiv-2309.13037-b31b1b.svg)](https://arxiv.org/abs/2309.13037) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wuphilipp.github.io/gello_site/)
 
 - [⭐️] **ALOHA**, Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware. [![arXiv](https://img.shields.io/badge/arXiv-2304.13705-b31b1b.svg)](https://arxiv.org/abs/2304.13705) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tonyzhaozh.github.io/aloha/)
+
+## Acknowledgements
+Thanks to [Awesome World Models](https://github.com/knightnemo/Awesome-World-Models/tree/main) for the template.
 
 
 
