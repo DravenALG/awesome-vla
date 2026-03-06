@@ -18,6 +18,8 @@
 - 🎯 [Aim](#aim)
 - 📚 [VLA Definition](#vla-definition) | [WAM Definition](#wam-definition)
 - 🔍 [Survey](#survey)
+
+**🤖 Vision-Language-Action (VLA) Models**
 - 🧠 [General VLA](#general-vla)
 - 💡 [VLA with Understanding and Reasoning](#vla-with-understanding-and-reasoning)
 - 🌐 [VLA with 3D/4D Modelling](#vla-with-3d4d-modelling)
@@ -26,10 +28,16 @@
 - 🧪 [VLA with Latent Actions](#vla-with-latent-actions)
 - 🧭 [Domain-Specific VLA (e.g., Humanoid, Tactile)](#domain-specific-vla-eg-humanoid-tactile)
 - 🧷 [Other Topics in VLA](#other-topics-in-vla)
+
+**🌍 World Action Models (WAM)**
 - 🎬 [World Action Models from VideoGen](#world-action-models-from-videogen)
 - 🌍 [World Action Models from VLA](#world-action-models-from-vla)
 - ✨ [World Action Models from Scratch](#world-action-models-from-scratch)
+
+**🦾 Traditional Policies**
 - 🦾 [Traditional Policies](#traditional-policies)
+
+**📦 Resources**
 - 💾 [Datasets](#datasets)
 - 📊 [Benchmark / Environment](#benchmark--environment)
 - 🏞️ [Physics Engine](#physics-engine)
@@ -233,7 +241,7 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - [⭐️] **UP-VLA**, UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent. [![arXiv](https://img.shields.io/badge/arXiv-2501.18867-b31b1b.svg)](https://arxiv.org/abs/2501.18867) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/CladernyJorn/UP-VLA)
 
 
-## ✨ World Action Models from Scratch
+## World Action Models from Scratch
 - [⭐️] **UVAM**, Unified Video Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2503.00200-b31b1b.svg)](https://arxiv.org/abs/2503.00200) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://unified-video-action-model.github.io)
 
 - **Seer**, Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2412.15109-b31b1b.svg)](https://arxiv.org/abs/2412.15109) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/InternRobotics/Seer)
